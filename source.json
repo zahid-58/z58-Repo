@@ -1,63 +1,63 @@
 {
-  "name": "TiviOS",
+  "name": "z58 Repo",
   "identifier": "com.zahid.tivios.source",
-  "iconURL": "https://raw.githubusercontent.com/zahid-58/TiviOS-Feather/refs/heads/main/AppIcon.png",
+  "iconURL": "https://raw.githubusercontent.com/zahid-58/z58-Repo/refs/heads/main/z58-logo.png",
   "apps": [
     {
       "appPermissions": {},
       "name": "TiviOS",
       "bundleIdentifier": "com.zahid.TiviOS",
       "developerName": "Zahid",
-      "iconURL": "https://raw.githubusercontent.com/zahid-58/TiviOS-Feather/refs/heads/main/AppIcon.png",
+      "iconURL": "https://raw.githubusercontent.com/zahid-58/z58-Repo/refs/heads/main/AppIcon.png",
       "localizedDescription": "Die iPhone-Version von TiviMac.",
       "versions": [
         {
           "version": "1.3.4",
           "date": "2026-11-18T00:56:00Z",
           "size": 18547967,
-          "downloadURL": "https://github.com/zahid-58/TiviOS-Feather/releases/download/v1.3.4/TiviOS.ipa",
+          "downloadURL": "https://github.com/zahid-58/z58-Repo/releases/download/v1.3.4/TiviOS.ipa",
           "minOSVersion": "17.0"
         },
         {
           "version": "1.3.3",
           "date": "2026-11-18T00:38:34Z",
           "size": 18533563,
-          "downloadURL": "https://github.com/zahid-58/TiviOS-Feather/releases/download/v1.3.3/TiviOS.ipa",
+          "downloadURL": "https://github.com/zahid-58/z58-Repo/releases/download/v1.3.3/TiviOS.ipa",
           "minOSVersion": "17.0"
         },
         {
           "version": "1.3.2",
           "date": "2026-11-18T00:24:53Z",
           "size": 18531832,
-          "downloadURL": "https://github.com/zahid-58/TiviOS-Feather/releases/download/v1.3.2/TiviOS.ipa",
+          "downloadURL": "https://github.com/zahid-58/z58-Repo/releases/download/v1.3.2/TiviOS.ipa",
           "minOSVersion": "17.0"
         },
         {
           "version": "1.3.1",
           "date": "2026-11-18T00:12:33Z",
           "size": 18514944,
-          "downloadURL": "https://github.com/zahid-58/TiviOS-Feather/releases/download/v1.3.1/TiviOS.ipa",
+          "downloadURL": "https://github.com/zahid-58/z58-Repo/releases/download/v1.3.1/TiviOS.ipa",
           "minOSVersion": "17.0"
         },
         {
           "version": "1.3.0",
           "date": "2026-11-17T23:50:38Z",
           "size": 18493992,
-          "downloadURL": "https://github.com/zahid-58/TiviOS-Feather/releases/download/v1.3.0/TiviOS.ipa",
+          "downloadURL": "https://github.com/zahid-58/z58-Repo/releases/download/v1.3.0/TiviOS.ipa",
           "minOSVersion": "17.0"
         },
         {
           "version": "1.2.0",
           "date": "2026-11-15T01:39:58Z",
           "size": 18251904,
-          "downloadURL": "https://github.com/zahid-58/TiviOS-Feather/releases/download/v1.2.0/TiviOS.ipa",
+          "downloadURL": "https://github.com/zahid-58/z58-Repo/releases/download/v1.2.0/TiviOS.ipa",
           "minOSVersion": "17.0"
         }
       ],
       "version": "1.3.4",
       "versionDate": "2026-11-18T00:56:00Z",
       "size": 18547967,
-      "downloadURL": "https://github.com/zahid-58/TiviOS-Feather/releases/download/v1.3.4/TiviOS.ipa",
+      "downloadURL": "https://github.com/zahid-58/z58-Repo/releases/download/v1.3.4/TiviOS.ipa",
       "buildVersion": "10"
     },
     {
@@ -65,56 +65,56 @@
       "name": "TiviOS2",
       "bundleIdentifier": "com.zahid.TiviOS2",
       "developerName": "Zahid",
-      "iconURL": "https://github.com/zahid-58/TiviOS-Feather/releases/download/tivios2-v1.1.4/TiviOS2-AppIcon.png",
+      "iconURL": "https://github.com/zahid-58/z58-Repo/releases/download/tivios2-v1.1.4/TiviOS2-AppIcon.png",
       "localizedDescription": "Live-TV, Filme und Serien mit dem neuen Abendprogramm.",
       "versions": [
         {
           "version": "1.1.4",
           "date": "2026-11-18T00:56:13Z",
           "size": 17820037,
-          "downloadURL": "https://github.com/zahid-58/TiviOS-Feather/releases/download/tivios2-v1.1.4/TiviOS2.ipa",
+          "downloadURL": "https://github.com/zahid-58/z58-Repo/releases/download/tivios2-v1.1.4/TiviOS2.ipa",
           "minOSVersion": "17.0"
         },
         {
           "version": "1.1.3",
           "date": "2026-11-18T00:38:44Z",
           "size": 17806852,
-          "downloadURL": "https://github.com/zahid-58/TiviOS-Feather/releases/download/tivios2-v1.1.3/TiviOS2.ipa",
+          "downloadURL": "https://github.com/zahid-58/z58-Repo/releases/download/tivios2-v1.1.3/TiviOS2.ipa",
           "minOSVersion": "17.0"
         },
         {
           "version": "1.1.2",
           "date": "2026-11-18T00:25:05Z",
           "size": 17805084,
-          "downloadURL": "https://github.com/zahid-58/TiviOS-Feather/releases/download/tivios2-v1.1.2/TiviOS2.ipa",
+          "downloadURL": "https://github.com/zahid-58/z58-Repo/releases/download/tivios2-v1.1.2/TiviOS2.ipa",
           "minOSVersion": "17.0"
         },
         {
           "version": "1.1.1",
           "date": "2026-11-18T00:12:44Z",
           "size": 17782560,
-          "downloadURL": "https://github.com/zahid-58/TiviOS-Feather/releases/download/tivios2-v1.1.1/TiviOS2.ipa",
+          "downloadURL": "https://github.com/zahid-58/z58-Repo/releases/download/tivios2-v1.1.1/TiviOS2.ipa",
           "minOSVersion": "17.0"
         },
         {
           "version": "1.1.0",
           "date": "2026-11-17T23:50:54Z",
           "size": 17754267,
-          "downloadURL": "https://github.com/zahid-58/TiviOS-Feather/releases/download/tivios2-v1.1.0/TiviOS2.ipa",
+          "downloadURL": "https://github.com/zahid-58/z58-Repo/releases/download/tivios2-v1.1.0/TiviOS2.ipa",
           "minOSVersion": "17.0"
         },
         {
           "version": "1.0.0",
           "date": "2026-11-15T20:57:34Z",
           "size": 17510339,
-          "downloadURL": "https://github.com/zahid-58/TiviOS-Feather/releases/download/tivios2-v1.0.0/TiviOS2.ipa",
+          "downloadURL": "https://github.com/zahid-58/z58-Repo/releases/download/tivios2-v1.0.0/TiviOS2.ipa",
           "minOSVersion": "17.0"
         }
       ],
       "version": "1.1.4",
       "versionDate": "2026-11-18T00:56:13Z",
       "size": 17820037,
-      "downloadURL": "https://github.com/zahid-58/TiviOS-Feather/releases/download/tivios2-v1.1.4/TiviOS2.ipa",
+      "downloadURL": "https://github.com/zahid-58/z58-Repo/releases/download/tivios2-v1.1.4/TiviOS2.ipa",
       "buildVersion": "6"
     },
     {
@@ -122,19 +122,19 @@
       "bundleIdentifier": "com.zahid.AI-Fitness-Coach",
       "developerName": "Zahid",
       "localizedDescription": "Plane dein Training, erfasse Mahlzeiten und verfolge deinen Fortschritt.",
-      "iconURL": "https://github.com/zahid-58/TiviOS-Feather/releases/download/ai-fitness-coach-v1.0/AI-Fitness-Coach-AppIcon.png",
+      "iconURL": "https://github.com/zahid-58/z58-Repo/releases/download/ai-fitness-coach-v1.0/AI-Fitness-Coach-AppIcon.png",
       "version": "1.0",
       "buildVersion": "1",
       "versionDate": "2026-11-22T01:37:51Z",
       "size": 18525575,
-      "downloadURL": "https://github.com/zahid-58/TiviOS-Feather/releases/download/ai-fitness-coach-v1.0/AI-Fitness-Coach.ipa",
+      "downloadURL": "https://github.com/zahid-58/z58-Repo/releases/download/ai-fitness-coach-v1.0/AI-Fitness-Coach.ipa",
       "versions": [
         {
           "version": "1.0",
           "buildVersion": "1",
           "date": "2026-11-22T01:37:51Z",
           "size": 18525575,
-          "downloadURL": "https://github.com/zahid-58/TiviOS-Feather/releases/download/ai-fitness-coach-v1.0/AI-Fitness-Coach.ipa",
+          "downloadURL": "https://github.com/zahid-58/z58-Repo/releases/download/ai-fitness-coach-v1.0/AI-Fitness-Coach.ipa",
           "minOSVersion": "18.5",
           "sha256": "be474b54040d928ae2b622c87e5173de1c3e855d70b0e04b618166a7e7138f2d"
         }

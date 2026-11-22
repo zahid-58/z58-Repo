@@ -1,8 +1,10 @@
-# TiviOS Feather source
+# z58 Repo
+
+<img src="z58-logo.png" width="128" height="128" alt="z58 Repo">
 
 Add or refresh the following source in Feather to download TiviOS, TiviOS2, or AI Fitness Coach.
 
-https://raw.githubusercontent.com/zahid-58/TiviOS-Feather/refs/heads/main/source.json
+https://raw.githubusercontent.com/zahid-58/z58-Repo/refs/heads/main/source.json
 
 TiviOS2 brings the Abendprogramm design to iPhone. It uses a separate app identifier so both apps can be installed side by side.
 
