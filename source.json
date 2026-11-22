@@ -72,9 +72,16 @@
       "name": "TiviOS2",
       "bundleIdentifier": "com.zahid.TiviOS2",
       "developerName": "Zahid",
-      "iconURL": "https://github.com/zahid-58/z58-Repo/releases/download/tivios2-v1.1.4/TiviOS2-AppIcon.png",
+      "iconURL": "https://github.com/zahid-58/z58-Repo/releases/download/tivios2-v1.2.0/TiviOS2-AppIcon.png",
       "localizedDescription": "Live-TV, Filme und Serien mit dem neuen Abendprogramm.",
       "versions": [
+        {
+          "version": "1.2.0",
+          "date": "2026-11-22T02:07:15Z",
+          "size": 17860512,
+          "downloadURL": "https://github.com/zahid-58/z58-Repo/releases/download/tivios2-v1.2.0/TiviOS2.ipa",
+          "minOSVersion": "17.0"
+        },
         {
           "version": "1.1.4",
           "date": "2026-11-18T00:56:13Z",
@@ -118,11 +125,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "1.1.4",
-      "versionDate": "2026-11-18T00:56:13Z",
-      "size": 17820037,
-      "downloadURL": "https://github.com/zahid-58/z58-Repo/releases/download/tivios2-v1.1.4/TiviOS2.ipa",
-      "buildVersion": "6"
+      "version": "1.2.0",
+      "versionDate": "2026-11-22T02:07:15Z",
+      "size": 17860512,
+      "downloadURL": "https://github.com/zahid-58/z58-Repo/releases/download/tivios2-v1.2.0/TiviOS2.ipa",
+      "buildVersion": "7"
     },
     {
       "name": "AI Fitness Coach",
