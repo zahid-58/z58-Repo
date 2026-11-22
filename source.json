@@ -116,6 +116,37 @@
       "size": 17820037,
       "downloadURL": "https://github.com/zahid-58/TiviOS-Feather/releases/download/tivios2-v1.1.4/TiviOS2.ipa",
       "buildVersion": "6"
+    },
+    {
+      "name": "AI Fitness Coach",
+      "bundleIdentifier": "com.zahid.AI-Fitness-Coach",
+      "developerName": "Zahid",
+      "localizedDescription": "Plane dein Training, erfasse Mahlzeiten und verfolge deinen Fortschritt.",
+      "iconURL": "https://github.com/zahid-58/TiviOS-Feather/releases/download/ai-fitness-coach-v1.0/AI-Fitness-Coach-AppIcon.png",
+      "version": "1.0",
+      "buildVersion": "1",
+      "versionDate": "2026-11-22T01:37:51Z",
+      "size": 18525575,
+      "downloadURL": "https://github.com/zahid-58/TiviOS-Feather/releases/download/ai-fitness-coach-v1.0/AI-Fitness-Coach.ipa",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-11-22T01:37:51Z",
+          "size": 18525575,
+          "downloadURL": "https://github.com/zahid-58/TiviOS-Feather/releases/download/ai-fitness-coach-v1.0/AI-Fitness-Coach.ipa",
+          "minOSVersion": "18.5",
+          "sha256": "be474b54040d928ae2b622c87e5173de1c3e855d70b0e04b618166a7e7138f2d"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.applesignin"
+        ],
+        "privacy": {
+          "NSCameraUsageDescription": "Mit der Kamera kannst du Barcodes scannen und Lebensmittel schneller erfassen."
+        }
+      }
     }
   ],
   "news": []

@@ -1,16 +1,18 @@
 # TiviOS Feather source
 
-Public distribution assets for TiviOS and TiviOS2. Add or refresh this source in Feather to install either app:
+Add or refresh the following source in Feather to download TiviOS, TiviOS2, or AI Fitness Coach.
 
 https://raw.githubusercontent.com/zahid-58/TiviOS-Feather/refs/heads/main/source.json
 
 TiviOS2 brings the Abendprogramm design to iPhone. It uses a separate app identifier so both apps can be installed side by side.
 
+AI Fitness Coach helps you plan workouts and track meals and progress. It requires iOS 18.5 or later.
+
 The application code is maintained separately. The published IPAs are available to anyone. Feather signs each IPA locally using the user's own certificate.
 
 ## Third-party software
 
-Both apps use MobileVLCKit 3.7.3 by VideoLAN and contributors, distributed under the GNU Lesser General Public License, version 2.1 or later. The license text is available in [MobileVLCKit-COPYING.txt](MobileVLCKit-COPYING.txt). MobileVLCKit is dynamically linked.
+TiviOS and TiviOS2 use MobileVLCKit 3.7.3 by VideoLAN and contributors, distributed under the GNU Lesser General Public License, version 2.1 or later. The license text is available in [MobileVLCKit-COPYING.txt](MobileVLCKit-COPYING.txt). MobileVLCKit is dynamically linked.
 
 VideoLAN VLCKit source and build instructions: https://code.videolan.org/videolan/VLCKit
 
