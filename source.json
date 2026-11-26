@@ -12,6 +12,13 @@
       "localizedDescription": "Die iPhone-Version von TiviMac.",
       "versions": [
         {
+          "version": "1.5.0",
+          "date": "2026-11-26T16:00:37Z",
+          "size": 18675234,
+          "downloadURL": "https://github.com/zahid-58/z58-Repo/releases/download/v1.5.0/TiviOS.ipa",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.4.0",
           "date": "2026-11-22T02:07:04Z",
           "size": 18585788,
@@ -61,11 +68,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "1.4.0",
-      "versionDate": "2026-11-22T02:07:04Z",
-      "size": 18585788,
-      "downloadURL": "https://github.com/zahid-58/z58-Repo/releases/download/v1.4.0/TiviOS.ipa",
-      "buildVersion": "11"
+      "version": "1.5.0",
+      "versionDate": "2026-11-26T16:00:37Z",
+      "size": 18675234,
+      "downloadURL": "https://github.com/zahid-58/z58-Repo/releases/download/v1.5.0/TiviOS.ipa",
+      "buildVersion": "12"
     },
     {
       "name": "AI Fitness Coach",
